@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+db.sqlite3
+venv/
+out/
+*.ipynb
+*.log
+*.pyc
+__pycache__
+*.__pycache__
+*.bak
+*.pot
+media
